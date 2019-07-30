@@ -9,7 +9,7 @@
                         "effect": "None",
                         "description": "Стрела с железным наконечником. Подходит для любых видов лука."}
   },
-  "rare": {"Меч": {"price": 100,
+  "rare": {"хуеч": {"price": 100,
                    "wearable": false,
                    "effect": "(De)buff",
                    "description": "Стальной двуручный меч с резной рукоятью.",
